@@ -3,7 +3,7 @@
 ![CI](https://github.com/MaryaAd/ahj-homework6/actions/workflows/web.yml/badge.svg)
 
 
-https://maryaad.github.io/ahj-homework6/
+https://maryaad.github.io/ahj-hw6/
 
 Правила сдачи задания:
 
